@@ -1,2 +1,4 @@
 # hello-world
-GitHub Obligatory Hello World Project
+Hello, world!
+
+Here I am trying to go through this GitHub tutorial.
